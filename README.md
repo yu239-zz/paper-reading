@@ -1,10 +1,14 @@
 # Paper reading
-This repo hosts a collection of interesting papers that involve: reinforcement learning, AI, and language processing. It may serve the purpose of literature review or ideas collection for a new project.
+This repo hosts a collection of interesting papers that involve: reinforcement learning, AGI, and language grounding to vision and control. It may serve the purpose of literature review.
 
 ## Reinforcement learning
-[Towards Deep Symbolic Reinforcement Learning](https://arxiv.org/pdf/1609.05518.pdf): combine DRL with symbolic reasoning.
+[Towards Deep Symbolic Reinforcement Learning](https://arxiv.org/pdf/1609.05518.pdf), Marta Garnelo, Kai Arulkumaran, Murray Shanahan, arxiv 1609.05518.
 
 ## Artificial general intelligence
-[Universal Intelligence: A Definition of Machine Intelligence](https://arxiv.org/pdf/0712.3329.pdf)
+[Universal Intelligence: A Definition of Machine Intelligence](https://arxiv.org/pdf/0712.3329.pdf), Shane Legg, Marcus Hutter, arxiv 0712.3329.
 
-## Lanugage processing
+## Lanugage grounding
+[Where is Misty? Interpreting Spatial Descriptors by Modeling Regions in Space](http://aclweb.org/anthology/D17-1015), 
+Nikita Kitaev and Dan Klein, ACL 2017.
+
+[Modulating early visual processing by language](https://arxiv.org/pdf/1707.00683.pdf), Harm de Vries, Florian Strub, Jérémie Mary, Hugo Larochelle, Olivier Pietquin, Aaron Courville, NIPS 2017.
