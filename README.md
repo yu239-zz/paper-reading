@@ -4,6 +4,8 @@ This repo hosts a collection of interesting papers that involve: reinforcement l
 ## Reinforcement learning
 [Towards Deep Symbolic Reinforcement Learning](https://arxiv.org/pdf/1609.05518.pdf), Marta Garnelo, Kai Arulkumaran, Murray Shanahan, arxiv 1609.05518.
 
+[Reinforcement Learning for Robots Using Neural Networks](https://pdfs.semanticscholar.org/54c4/cf3a8168c1b70f91cf78a3dc98b671935492.pdf), Long-Ji Lin, PhD Thesis, 1993.
+
 ## Artificial general intelligence
 [Universal Intelligence: A Definition of Machine Intelligence](https://arxiv.org/pdf/0712.3329.pdf), Shane Legg, Marcus Hutter, arxiv 0712.3329.
 
