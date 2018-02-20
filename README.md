@@ -22,4 +22,5 @@ Yonatan Bisk, Kevin J. Shih, Yejin Choi, Daniel Marcu, AAAI 2017.
 Justin Johnson, Bharath Hariharan, Laurens van der Maaten, Judy Hoffman, Li Fei-Fei, C. Lawrence Zitnick, Ross Girshick, ICCV 2017.
 
 [How Language Programs the Mind](http://sapir.psych.wisc.edu/papers/lupyan_bergen_topics_inPress.pdf), Gary Lupyan.
-[LEARNING TO COUNT OBJECTS IN NATURAL IMAGES FOR VISUAL QUESTION ANSWERING](https://arxiv.org/pdf/1802.05766.pdf), Yan Zhang & Jonathon Hare, Adam Prugel-Bennett, ICLR 2018.
+
+[Learning to Count Objects in Natural Images for Visual Question Answering](https://arxiv.org/pdf/1802.05766.pdf), Yan Zhang, Jonathon Hare, Adam Prugel-Bennett, ICLR 2018.
